@@ -1,2 +1,24 @@
-super market 
-_> sells 
+github
+server wamp/lamp/mamp
+w
+a
+m
+p
+https://bitnami.com/
+https://bitnami.com/stacks
+front-end (html ,js , css)
+back-end (sql , php)
+type of requirements
+-user 
+-system 
+-domain
+super-market
+->item (item-name ,price id , item-quan , item-exp-date , item-barcode)
+
+->item price (item-name , s-price  , b-pirce,active,date)
+
+->sells(item-name ,item-s-price , quan , orderno)
+->orders(orderno , date , time)
+
+->staff(name , phone , gender , address )
+->accounts(name,amount , in/out,date)
