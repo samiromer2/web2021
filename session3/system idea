@@ -1,0 +1,42 @@
+super-market 
+
+->item (item-name ,price id , item-quan , item-exp-date , item-barcode).  
+->item price (item-name , s-price  , b-pirce,active,date).  
+->sells(item-name ,item-s-price , quan , orderno). 
+->orders(orderno , date , time).  
+->staff(name , phone , gende).
+->account(name , in/out , amount , date , type)
+
+forms
+->item 
+item-name  <input>
+price id <input>
+item-quan <input>
+item-exp-date <input>
+item-barcode  <input>
+
+->item price 
+item-name <input>
+s-price <input>
+b-pirce <input>
+active <input>
+date <input>  
+->sells
+item-name <input>
+item-s-price <input>
+quan <input>
+orderno <input>
+->orders
+orderno <input>
+date <input>
+time <input> 
+->staff
+name <input>
+phone <input>
+gende <input>
+->account
+name <input>
+in/out <input>
+amount <input>
+date <input>
+type <input>
