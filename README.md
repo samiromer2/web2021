@@ -7,3 +7,5 @@ Welcome here
 3. https://github.com/Petros-1999
 4. https://github.com/ahmed555morgan
 5. https://github.com/abrazan675
+6. https://github.com/Ritawilliam3
+7. https://github.com/saadfrmatow
